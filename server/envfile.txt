@@ -1,0 +1,8 @@
+create a .env file in the server folder and replace these fields with ypur actual fields
+
+MONGODB_URI='url_of_your_mongodb_project'
+JWT_SECRET='your_jwt_secret_key'
+NODE_ENV='development' //keep this as it is
+SMTP_USER='your_smtp_user_id'
+SMTP_PASS='your_smtp_password'
+SENDER_EMAIL='your_sender_email_id'

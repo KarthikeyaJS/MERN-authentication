@@ -1,0 +1,3 @@
+create a .env file in your client folder
+
+VITE_BACKEND_URL='your_localhost_ip_address'
